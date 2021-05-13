@@ -7,5 +7,5 @@ TICKERS = [
 EMAILS = ['williamjudge94@gmail.com',
           'kkumar26@uic.edu',
           'mdato2@uic.edu',
-          'amaloo3@uic.edu',
+          'almalooley@gmail.com',
          ]
