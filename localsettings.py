@@ -1,5 +1,5 @@
 TICKERS = [
-  ['AAPL', 'MSFT', 'AMZN', 'NVDA', 'TSLA', 'BTC-USD', 'ETH-USD', 'DOGE-USD', 'RYCEY', 'SAVE', 'SPY', 'QQQ'], # Will Stonks
+  ['AAPL', 'MSFT', 'AMZN', 'BABA', 'NVDA', 'TSLA', 'BTC-USD', 'ETH-USD', 'DOGE-USD', 'RYCEY', 'SAVE', 'SPY', 'QQQ'], # Will Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Khagesh Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'TSM', 'DIS', 'DOGE-USD', 'SPY', 'QQQ', 'AMD', 'INTC'], # Mike Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Alec Stonks
