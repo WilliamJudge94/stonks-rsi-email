@@ -11,5 +11,5 @@ EMAILS = ['williamjudge94@gmail.com',
           'mdato2@uic.edu',
           'almalooley@gmail.com',
           'tristan.trautman@hotmail.com',
-          'apmalooey@gmail.com',
+          'apmalooley@gmail.com',
          ]
