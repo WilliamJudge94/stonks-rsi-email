@@ -3,7 +3,7 @@ TICKERS = [
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Khagesh Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'TSM', 'DIS', 'DOGE-USD', 'SPY', 'QQQ', 'AMD', 'INTC'], # Mike Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Alec Stonks
-  ['BP', 'O', 'MMM', 'LOAN', 'ACRE', 'T', 'COIN', 'AAPL', 'XOM', 'DOW', 'WFC', 'BAC', 'DIV', 'HPQ', 'KO', 'BTC-USD', 'ETH-USD', 'RYCEY'], # Tristan Stonks
+  ['BP', 'O', 'MMM', 'LOAN', 'ACRE', 'T', 'COIN', 'AAPL', 'XOM', 'DOW', 'WFC', 'BAC', 'DIV', 'HPQ', 'KO', 'BTC-USD', 'ETH-USD', 'RYCEY', 'INTC'], # Tristan Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Andrew Stonks
           ]
 EMAILS = [
