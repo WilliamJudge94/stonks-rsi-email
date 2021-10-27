@@ -5,6 +5,7 @@ TICKERS = [
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Alec Stonks
   ['BP', 'O', 'MMM', 'LOAN', 'ACRE', 'T', 'COIN', 'AAPL', 'XOM', 'DOW', 'WFC', 'BAC', 'DIV', 'HPQ', 'KO', 'BTC-USD', 'ETH-USD', 'RYCEY', 'INTC'], # Tristan Stonks
   ['AAPL', 'NVDA', 'TSLA', 'AMZN', 'BTC-USD', 'ETH-USD', 'RYCEY', 'SAVE', 'DOGE-USD', 'SPY', 'QQQ'], # Andrew Stonks
+  ['AAPL', 'MSFT', 'AMZN', 'BABA', 'KO', 'NVDA', 'TSLA', 'BTC-USD', 'ETH-USD', 'DOGE-USD', 'RYCEY', 'SAVE', 'SPY', 'QQQ'], # Caraline Stonks
           ]
 EMAILS = [
           'williamjudge94@gmail.com',
@@ -13,4 +14,5 @@ EMAILS = [
           'almalooley@gmail.com',
           'tristan.trautman@hotmail.com',
           'apmalooley@gmail.com',
+          'cjudge919@gmail.com',
          ]
