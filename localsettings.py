@@ -9,7 +9,7 @@ TICKERS = [
   ['AAPL', 'MSFT', 'AMZN', 'KO', 'NVDA', 'TSLA', 'BTC-USD', 'ETH-USD', 'SPY', 'QQQ'], # Jake Stonks
   ['SPY', 'QQQ'], # Tristan Friend 1
   ['SPY', 'QQQ'], # Tristan Friend 2
-  ['REPL', 'VYGR', 'RTN', 'SPY', 'QQQ'], # Tristan Friend 3
+  ['REPL', 'VYGR', 'RTX', 'SPY', 'QQQ'], # Tristan Friend 3
           ]
 EMAILS = [
           'williamjudge94@gmail.com',
